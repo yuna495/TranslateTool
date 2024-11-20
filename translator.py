@@ -114,7 +114,7 @@ def clipboard_monitor():
             if keyboard.is_pressed("ctrl"):
                 if keyboard.read_event().name == "c":
                     # 1回目の `C`
-                    time.sleep(0.1)  # タイミング調整
+                    time.sleep(0.2)  # タイミング調整
                     if keyboard.read_event().name == "c":
                         # 2回目の `C`
                         translate_clipboard()

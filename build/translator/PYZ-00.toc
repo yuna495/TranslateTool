@@ -1,4 +1,4 @@
-('D:\\Games\\Python\\translateTool\\build\\translator\\PYZ-00.pyz',
+('D:\\Games\\Python\\TranslateTool\\build\\translator\\PYZ-00.pyz',
  [('PIL',
    'D:\\Games\\Python\\translateTool\\.venv\\Lib\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
