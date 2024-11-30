@@ -1,6 +1,0 @@
-{
-  "python.pythonPath": ".venv/Scripts/python.exe"
-
-  // .\venv\Scripts\Activate
-  // pyinstaller --onefile --noconsole --icon="D:/Games/Python/TranslateTool/icon/icon.ico" translator.py
-}
